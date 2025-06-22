@@ -43,11 +43,12 @@ Working of the Project
 The working of this project can be observed through real-time performance data and visibility changes on Amazon. Here’s how it functions in a live environment:
  1. Keyword Visibility on Amazon Search
 After optimizing the product listing with high-ranking keywords and launching PPC campaigns:
-When a customer searches a targeted keyword on Amazon, the product appears in the search results. It may show up in: Sponsored section (top or middle) — due to PPC ads Organic search result — due to SEO improvements in the listing
+When a customer searches a targeted keyword on Amazon(https://www.amazon.com), the product appears in the search results. It may show up in: Sponsored section (top or middle) — due to PPC ads Organic search result — due to SEO improvements in the listing
 This demonstrates that the optimisation and ad targeting are effectively increasing product visibility.
 
 2. PPC Campaign Tracking via Seller Central
 The impact of the project is also visible through Campaign Manager in Amazon Seller Central:
+(https://advertising.amazon.com/campaign-manager?entityId=ENTITY1QT4DFAN7ADAE)
 Go to: Advertising → Campaign Manager
 There, sellers can track: Impressions: How many people saw the ad Clicks & CTR: How many clicked on it Sales & Orders: What sales came through ads ACoS (Advertising Cost of Sale): Shows if the ad is profitable CPC (Cost Per Click): Helps monitor ad spend efficiency
 Improvements or declines in performance can be analysed through these reports.
