@@ -1,5 +1,4 @@
-# Myproject
-Amazon Listing Optimisation and PPC Ads
+# Amazon Listing Optimisation and PPC Ads
 
 This project focuses on enhancing the visibility, traffic, and sales performance of a product on Amazon through effective listing optimisation and Pay-Per-Click (PPC) advertising.
 
